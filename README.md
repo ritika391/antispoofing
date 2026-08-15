@@ -1,6 +1,5 @@
 # 🛡️ FaceGuard — Anti-Spoofing Detection System
 ### MobileNetV2-Based Liveness Detection for Images & Video
-**B.Tech Minor Project | Computer Science & Engineering | 3rd Year**
 
 ---
 
@@ -183,9 +182,5 @@ python src/video_inference.py --source 0  # 0 = webcam
 
 ## 👨‍💻 Author
 
-**[Your Name]** | Roll No: 
-RITIKA           23124085
-PALLAVI          23124073
-NIKHIL           23124068 
+RITIKA          
 B.Tech IT| [NIT JALANDHAR]
-Minor Project — 2025-26
